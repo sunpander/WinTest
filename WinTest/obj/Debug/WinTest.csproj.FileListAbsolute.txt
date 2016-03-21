@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Debug\WinTest.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Debug\WinTest.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Debug\WinTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Debug\分析文件.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Debug\分析文件.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Debug\分析文件.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Debug\分析文件.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Debug\分析文件.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Debug\WinTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\分析文件.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\分析文件.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\分析文件.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\EPPlus.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\FontBox-0.1.0-dev.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\IKVM.GNU.Classpath.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\IKVM.Runtime.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\bin\Release\PDFBox-0.7.3.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Release\WinTest.Form1.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Release\WinTest.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Release\WinTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Release\分析文件.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Release\分析文件.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WinTest\WinTest\obj\Release\WinTest.csprojResolveAssemblyReference.cache
